@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sdf.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sdf.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sdf.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sdf.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "475b53132543a9ff",
   "lastOpenFiles": [
     "sdf.md",
+    "README.md",
     "dasfsdf/Sin títulasdsdo.md",
     "dasfsdf",
     "Welcome.md"
